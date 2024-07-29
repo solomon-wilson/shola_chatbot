@@ -7,7 +7,7 @@ This repository contains the code for a simple web application built with [Strea
 2. An OpenAI API Key
 
 ### App Demo
-![StreamlitChatbot](https://github.com/spartasolopolo/shola_chatbot/asset/app_demp.jpeg)
+![GenAIChatbot]([https://github.com/spartasolopolo/shola_chatbot/asset/app_demp.jpeg](https://github.com/spartasolopolo/shola_chatbot/blob/main/asset/app_demo.jpeg))
 
 
 ### Steps to run the application
